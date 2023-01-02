@@ -1,6 +1,6 @@
 # Weekly prompts for product managers
 
-This script generates 3 weekly reflection prompts for Product managers.
+This script generates 3 weekly and random reflection prompts for Product managers.
 The questions are based on [Petra Wille's PM Wheel](https://www.strongproductpeople.com/pmwheel).
 Send this to your product managers to encourage fast and easy reflection and learning.
 
