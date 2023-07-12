@@ -17,7 +17,6 @@ sqlite3 -header database.sqlite < script.sql | awk '
   NR == 1 { next }
   {
     printf("%s\n%s\n", $1, $2)
-    print $3
     print ""
   }
 '
