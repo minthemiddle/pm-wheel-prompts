@@ -1,7 +1,7 @@
 # Weekly prompts for product managers
 
 This script generates 3 weekly and random reflection prompts for Product managers.
-The questions are based on [Petra Wille's PM Wheel](https://www.strongproductpeople.com/pmwheel).
+The questions are based on [Petra Wille's PM Wheel](https://www.strongproductpeople.com/pmwheel) and [Kate Leto's Human Skills Wheel](https://www.kateleto.com/articles/human-skills-wheel).
 Send this to your product managers to encourage fast and easy reflection and learning.
 
 ## Installation
